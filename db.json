@@ -3,27 +3,27 @@
     {
       "id": 1,
       "title": "Vegan and Low Fat Product",
-      "description": "this is a Vegan and Low Fat product",
+      "description": "This is an example of a Vegan and Low Fat product",
       "vegan": true,
       "lowfat": true
     },
     {
       "title": "Delicious Product",
-      "description": "All the bad delicious things, Fatty and Meaty",
+      "description": "This is an example of a regular non-healthy product",
       "vegan": false,
       "lowfat": false,
       "id": 2
     },
     {
       "title": "Only Vegan Product",
-      "description": "Vegetable full of Fat",
+      "description": "This is an example of a Vegan but not Low Fat product",
       "vegan": true,
       "lowfat": false,
       "id": 3
     },
     {
       "title": "Only Low Fat Product",
-      "description": "Sad and Insipid Meat",
+      "description": "This is an example of a Low Fat but not Vegan product",
       "vegan": false,
       "lowfat": true,
       "id": 4
